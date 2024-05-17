@@ -1,0 +1,28 @@
+Label;Part Type;mn;mpn;part number;
+4;GlowBitª Matrix - 8x8 fro Core Electronics Australia
+5V DC Fan;Fan - Ventilador;;;;
+5V DC Fan;Fan - Ventilador;;;;
+Arduino UNO;Arduino Uno (Rev3) - ICSP;;;;
+BNC Output / Flash on;BNC socket;;;;
+PS1 5V DC 10 Amp;S-350-60 Power Supply;;;S-350-60;
+R1;10 turn linear Rotary Potentiometer 
+R2;10 turn linear Rotary Potentiometer 
+SW 2 Slide or toggle;Slide_Switch_new;;;;
+SW 3 Push button;SWITCH-MOMENTARY-2;;;;
+SW1 Slide or Toggle;Slide_SW_micro_dpdt;;;;
+U3;WS2812 RGB LED matrix 8x8;;;;
+U4;WS2812 RGB LED matrix 8x8;;;;
+U5;WS2812 RGB LED matrix 8x8;;;;
+USB power for Arduino;USB connector;;;;
+
+Amount;Part Type;mn;mpn;part number;
+1;Arduino Uno (Rev3) - ICSP;;;;
+1;BNC socket;;;;
+2;Fan - Ventilador;;;;
+2;10 Turn Rotary Potentiometer Linear
+1;Mean Well 70W 5V 14A Power Supply
+1;SWITCH-MOMENTARY-2;;;;
+1;Toggle_SW_micro_dpdt;;;;
+1;Toggle_Switch_new;;;;
+1;USB connector;;;;
+4;GlowBitª Matrix - 8x8 fro Core Electronics Australia
